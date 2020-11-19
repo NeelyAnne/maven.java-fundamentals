@@ -1,5 +1,6 @@
 package com.github.curriculeon;
 
+
 import com.github.curriculeon.mathutilities.TestAddition;
 import com.github.curriculeon.mathutilities.TestSubtraction;
 import com.github.curriculeon.mathutilities.TestDivision;

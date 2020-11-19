@@ -1,5 +1,4 @@
 package com.github.curriculeon.mathutilities;
-
 import com.github.curriculeon.MathUtilities;
 import org.junit.Test;
 
